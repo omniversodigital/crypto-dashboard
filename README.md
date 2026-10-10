@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/hero-banner.svg" alt="Crypto Dashboard Banner" width="100%" />
+</p>
+
 # ⚡ Institutional Crypto Analytics & Portfolio Dashboard
 
 [![Build & Validation CI](https://github.com/omniversodigital/crypto-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/omniversodigital/crypto-dashboard/actions)
